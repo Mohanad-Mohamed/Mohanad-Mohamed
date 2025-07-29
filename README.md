@@ -13,7 +13,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohanad-mohamed-3b7a89243/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3HT0-zN76yS_aEIbNx3N5Z&ust=1753861688494000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCAjY7K4Y4DFQAAAAAdAAAAABAE" width="50px" title="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohanad-mohamed-3b7a89243/" target="_blank"><img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" width="50px" title="LinkedIn"></a>
 </p>
 
 ---
