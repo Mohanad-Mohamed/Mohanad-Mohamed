@@ -22,5 +22,5 @@
 <h3 align="center">🛠️ My Toolbox</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,ansible,python,html,css,cassandra,jquery,elasticsearch,CI/CD,git,github,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,ansible,python,html,css,cassandra,jquery,elasticsearch,git,github,prometheus,grafana" />
 </p>
